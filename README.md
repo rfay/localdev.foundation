@@ -18,13 +18,14 @@ We love to hear from our community and help them be successful with DDEV. Suppor
 
 You can contact us any of the ways above, but feel free to contact `support` `at` `localdev.foundation`
 
-Snail Mail:
+Snail Mail and Phone:
 
 ```
 Localdev Foundation
 848 Montclair Dr
 Palisade, CO 81526
 USA
++1 970-462-7450
 ```
 
 Colorado [nonprofit corporation registration](https://www.sos.state.co.us/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&nameTyp=ENT&masterFileId=20211820326&entityId2=20211820326&fileId=20211820326&srchTyp=ENTITY)
