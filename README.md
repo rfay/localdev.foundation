@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# localdev.foundation
+Official website for the Localdev Foundation, developer of [DDEV](https://ddev.readthedocs.io).
 
-You can use the [editor on GitHub](https://github.com/rfay/localdev.foundation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## DDEV Support and User-Contributed Documentation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We love to hear from our community and help them be successful with DDEV. Support options include:
 
-### Markdown
+* Lots of built-in help: `ddev help` and `ddev help <command>`. You'll find examples and explanations.
+* [DDEV Documentation](https://ddev.readthedocs.io/en/stable/users/faq/)
+* [DDEV Stack Overflow](https://stackoverflow.com/questions/tagged/ddev) for support and frequently asked questions. We respond quite quickly here and the results provide quite a library of user-curated solutions.
+* [DDEV issue queue](https://github.com/drud/ddev/issues) for bugs and feature requests
+* The `#ddev` channels in [Drupal Slack](https://www.drupal.org/slack), [TYPO3 Slack](https://my.typo3.org/index.php?id=35) for interactive, immediate community support.
+* [ddev-contrib](https://github.com/drud/ddev-contrib) repo provides a number of vetted user-contributed recipes for extending and using DDEV. Your contributions are welcome.
+* [awesome-ddev](https://github.com/drud/awesome-ddev) repo has loads of external resources, blog posts, recipes, screencasts, and the like. Your contributions are welcome.
+* [Twitter with tag #ddev](https://twitter.com/search?q=%23ddev&src=typd&f=live) will get to us, but it's not as good for interactive support, but we'll answer anywhere.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact the Localdev Foundation
 
-```markdown
-Syntax highlighted code block
+You can contact us any of the ways above, but feel free to contact `support` `at` `localdev.foundation`
 
-# Header 1
-## Header 2
-### Header 3
+Snail Mail:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rfay/localdev.foundation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Localdev Foundation
+848 Montclair Dr
+Palisade, CO 81526
+USA
+```
