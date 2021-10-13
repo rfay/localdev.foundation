@@ -1,5 +1,5 @@
 # localdev.foundation
-Official website for the Localdev Foundation, developer of [DDEV](https://ddev.readthedocs.io).
+Official website for the Localdev Foundation, a Colorado (USA) nonprofit corporation, developer of [DDEV](https://ddev.readthedocs.io).
 
 ## DDEV Support and User-Contributed Documentation
 
@@ -26,3 +26,5 @@ Localdev Foundation
 Palisade, CO 81526
 USA
 ```
+
+Colorado [nonprofit corporation registration](https://www.sos.state.co.us/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&nameTyp=ENT&masterFileId=20211820326&entityId2=20211820326&fileId=20211820326&srchTyp=ENTITY)
