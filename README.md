@@ -1,4 +1,4 @@
-# localdev.foundation
+# Localdev Foundation
 Official website for the Localdev Foundation, a Colorado (USA) nonprofit corporation, developer of [DDEV](https://ddev.readthedocs.io).
 
 ## DDEV Support and User-Contributed Documentation
