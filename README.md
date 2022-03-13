@@ -14,6 +14,14 @@ We love to hear from our community and help them be successful with DDEV. Suppor
 * [awesome-ddev](https://github.com/drud/awesome-ddev) repo has loads of external resources, blog posts, recipes, screencasts, and the like. Your contributions are welcome.
 * [Twitter with tag #ddev](https://twitter.com/search?q=%23ddev&src=typd&f=live) will get to us, but it's not as good for interactive support, but we'll answer anywhere.
 
+## How can I donate to the Localdev Foundation
+
+Thanks for asking! Lots of users and teams want a way to donate to the DDEV project, and here's how:
+
+* [GitHub Sponsors](https://github.com/sponsors/rfay) is the easiest way for GitHub users. 
+* You can send a check (in USD please) to the snail mail address below.
+* Contact us for other options, something can work! And thanks!
+
 ## Contact the Localdev Foundation
 
 You can contact us any of the ways above, but feel free to contact `support` `at` `localdev.foundation`
